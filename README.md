@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Jonathan Dharma. I am a Data Science graduate passionate about building fun, impactful projects that blend creativity and analytics.<br><br>🎯 Currently exploring AI apps, data engineering, and full-stack development<br><br>🛠 Working on Mood Munch – a recipe recommendation app powered by mood-based filters<br><br>🌱 Learning more about ETFs and investing in my free time<br><br>🎮 Former pro Valorant & CS:GO player – still a gamer at heart<br><br>✈️ Love traveling, trying new foods, and documenting experiences through side projects<br><br>📬 Always open to collaborating on interesting ideas — let’s connect!
 
 
